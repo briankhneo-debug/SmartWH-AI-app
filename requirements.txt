@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 scipy
 scikit-fuzzy
+networkx
 openpyxl
